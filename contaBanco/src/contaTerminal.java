@@ -1,6 +1,16 @@
 /*
  * Este desafio foi para criar um programa em java 
- * @autor
+ * @authon joselito da silva
+ * @version 0.0.0.1
+ * 
+ *  listas da valiaveis
+ * 
+ *      - nomeCliente
+ *      - agencia
+ *      - numeroConta
+ *      - saldo
+ *       
+ *
  */
 
 
